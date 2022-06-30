@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Needit M2m B Tables A Tables" max_length="40" name="x_58872_needit_m2m_b_tables_a_tables" sizeclass="8" type="collection">
+        <element attributes="encode_utf8=false" label="A table" max_length="32" name="a_table" reference="x_58872_needit_a_table" type="reference"/>
+        <element attributes="encode_utf8=false" label="B table" max_length="32" name="b_table" reference="x_58872_needit_b_table" type="reference"/>
+        <index name="index">
+            <element name="a_table"/>
+        </index>
+        <index name="index2">
+            <element name="b_table"/>
+        </index>
+    </element>
+</database>

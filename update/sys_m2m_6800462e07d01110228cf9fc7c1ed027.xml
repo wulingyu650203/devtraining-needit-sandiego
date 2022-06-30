@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_58872_needit_a_table</from_table>
+        <m2m_from_field>a_table</m2m_from_field>
+        <m2m_from_label>B tables</m2m_from_label>
+        <m2m_table>x_58872_needit_m2m_b_tables_a_tables</m2m_table>
+        <m2m_to_field>b_table</m2m_to_field>
+        <m2m_to_label>A tables</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 05:58:36</sys_created_on>
+        <sys_id>6800462e07d01110228cf9fc7c1ed027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_m2m_b_tables_a_tables</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_m2m_6800462e07d01110228cf9fc7c1ed027</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 05:58:36</sys_updated_on>
+        <to_table>x_58872_needit_b_table</to_table>
+    </sys_m2m>
+</record_update>
